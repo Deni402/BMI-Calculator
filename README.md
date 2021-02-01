@@ -3,7 +3,7 @@
 
 ## My Goal
 
-The objective of this tutorial is to look at how I can customise Flutter Widgets to achieve a beautiful user interface designs.
+The objective of this project is to look at how I can customise Flutter Widgets to achieve a beautiful user interface designs.
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
